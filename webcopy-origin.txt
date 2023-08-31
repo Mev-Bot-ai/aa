@@ -1,0 +1,120 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\app.evershib.org\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://app.evershib.org/
+File Name: C:\Downloaded Web Sites\app.evershib.org\index.htm
+Content Type: text/html
+
+Uri: https://app.evershib.org/assets/images/Arrow-down.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\Arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/bakerytoken-bake-logo.png
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\bakerytoken-bake-logo.png
+Content Type: image/png
+
+Uri: https://app.evershib.org/assets/images/Binance-coin-bnb-logo.png
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\Binance-coin-bnb-logo.png
+Content Type: image/png
+
+Uri: https://app.evershib.org/assets/images/contact.565401ef.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\contact.565401ef.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/earning_select.f9b4b522.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\earning_select.f9b4b522.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/ended.png
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\ended.png
+Content Type: image/png
+
+Uri: https://app.evershib.org/assets/images/gallery.7e87d6d3.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\gallery.7e87d6d3.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/game.ebcccdaf.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\game.ebcccdaf.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/home.979f9a8a.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\home.979f9a8a.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/icon_close.png
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\icon_close.png
+Content Type: image/png
+
+Uri: https://app.evershib.org/assets/images/icon_star_white.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\icon_star_white.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/icon_v2.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\icon_v2.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/IMOV.png
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\IMOV.png
+Content Type: image/png
+
+Uri: https://app.evershib.org/assets/images/info.10a5cc6a.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\info.10a5cc6a.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/launchpad.b79cf5ba.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\launchpad.b79cf5ba.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/nft.02261315.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\nft.02261315.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/images/Tether-USDT-icon.png
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\Tether-USDT-icon.png
+Content Type: image/png
+
+Uri: https://app.evershib.org/assets/images/trade.9c696aab.svg
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\images\trade.9c696aab.svg
+Content Type: image/svg+xml
+
+Uri: https://app.evershib.org/assets/scripts/apply-interface.js
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\scripts\apply-interface.js
+Content Type: application/javascript
+
+Uri: https://app.evershib.org/assets/scripts/index.js
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\scripts\index.js
+Content Type: application/javascript
+
+Uri: https://app.evershib.org/assets/styles/4.e065a6a5.chunk.css
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\styles\4.e065a6a5.chunk.css
+Content Type: text/css
+
+Uri: https://app.evershib.org/assets/styles/global.css
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\styles\global.css
+Content Type: text/css
+
+Uri: https://app.evershib.org/assets/styles/styles.css
+File Name: C:\Downloaded Web Sites\app.evershib.org\assets\styles\styles.css
+Content Type: text/css
+
+Uri: https://app.evershib.org/settings.js
+File Name: C:\Downloaded Web Sites\app.evershib.org\settings.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@walletconnect/web3-provider@1.8.0/dist/umd/index.min.js
+File Name: C:\Downloaded Web Sites\app.evershib.org\@walletconnect\web3-provider@1.8.0\dist\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/web3@4.1.1/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\app.evershib.org\web3@4.1.1\dist\web3.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/web3modal@1.9.12/dist/index.js
+File Name: C:\Downloaded Web Sites\app.evershib.org\web3modal@1.9.12\dist\index.js
+Content Type: application/javascript
+
+Uri: https://www.bakeryswap.org/images/image-bg2.jpg
+File Name: C:\Downloaded Web Sites\app.evershib.org\images\image-bg2.jpg
+Content Type: image/jpeg
+
