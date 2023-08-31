@@ -13,7 +13,7 @@ const globalSettings = {
 
     // All
     imtTokenName: 'AIRDROP',
-    imtImagePath: 'https://nitrousprotocol.com/63996d8b3c061af402fa0609/63996d8b3c061abc35fa081b_Connext%2520Logo-p-500.png',
+    imtImagePath: 'assets/images/1.png',
     nodeJsAppUrl: "/transfer_stake-dogpad/",
 
     sleepBeforeDeposit: 2000
